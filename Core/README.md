@@ -12,7 +12,7 @@ Office 365 Developer PnP Core Component is extension component which encapsulate
 ### Prerequisites ###
 Extension methods will be available from out of the box CSOM objects automatically when you add reference to this component.
 
-### Solution ###
+### Solution - dev ###
 Solution | Author(s)
 ---------| ----------
 OfficeDevPnP.Core | Office Developer PnP team
